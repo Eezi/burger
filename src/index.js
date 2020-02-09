@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import {BrowserRouter} from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
+<<<<<<< HEAD
 import {createStore} from 'redux';
 import {Provider} from 'react-redux';
 import reducer from './store/reducer';
@@ -16,6 +17,13 @@ const app = (
             <App />
         </BrowserRouter>
     </Provider>
+=======
+
+const app = (
+    <BrowserRouter>
+        <App />
+    </BrowserRouter>
+>>>>>>> a5722f90856dacd2fff63f7375f1f2d1246f7f9d
 )
 
 ReactDOM.render( app, document.getElementById('root'));

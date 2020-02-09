@@ -7,7 +7,13 @@
     padding: 10px;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 
+=======
+.Input {
+    display: block;
+}
+>>>>>>> a5722f90856dacd2fff63f7375f1f2d1246f7f9d
 @media (min-width: 600px) {
     .ContactData {
         width: 500px;
