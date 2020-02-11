@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
-<<<<<<< HEAD
 import Aux from '../../../hoc/Pux';
-=======
-import Aux from '../../../hoc/Aux';
->>>>>>> a5722f90856dacd2fff63f7375f1f2d1246f7f9d
+
 import Button from '../../UI/Button/Button';
 class OrderSummary extends Component  {
     //Tämä componentti voisi olla myös function component

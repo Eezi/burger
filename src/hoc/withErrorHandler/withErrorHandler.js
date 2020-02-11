@@ -1,11 +1,6 @@
 import React, {Component} from 'react';
 import Modal from '../../components/UI/Modal/Modal'
-<<<<<<< HEAD
 import Aux from '../Pux';
-=======
-import Aux from '../Aux';
->>>>>>> a5722f90856dacd2fff63f7375f1f2d1246f7f9d
-
 
 //Tämän componentin avulla käsitellään erroreja
 const withErrorHandler = ( WrappedComponent, axios ) => {
