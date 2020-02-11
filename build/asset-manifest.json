@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/burger/static/css/main.9100ccdc.chunk.css",
-    "main.js": "/burger/static/js/main.d9d28b01.chunk.js",
-    "main.js.map": "/burger/static/js/main.d9d28b01.chunk.js.map",
+    "main.css": "/burger/static/css/main.7f7a4977.chunk.css",
+    "main.js": "/burger/static/js/main.fc2c6d8b.chunk.js",
+    "main.js.map": "/burger/static/js/main.fc2c6d8b.chunk.js.map",
     "runtime-main.js": "/burger/static/js/runtime-main.6731923e.js",
     "runtime-main.js.map": "/burger/static/js/runtime-main.6731923e.js.map",
     "static/js/2.2fbb3a8f.chunk.js": "/burger/static/js/2.2fbb3a8f.chunk.js",
     "static/js/2.2fbb3a8f.chunk.js.map": "/burger/static/js/2.2fbb3a8f.chunk.js.map",
     "index.html": "/burger/index.html",
-    "precache-manifest.e49e2f1078f01313ff7950ed5efe92d3.js": "/burger/precache-manifest.e49e2f1078f01313ff7950ed5efe92d3.js",
+    "precache-manifest.d2ee4a33712ac99ba7a3a9340e293cdc.js": "/burger/precache-manifest.d2ee4a33712ac99ba7a3a9340e293cdc.js",
     "service-worker.js": "/burger/service-worker.js",
-    "static/css/main.9100ccdc.chunk.css.map": "/burger/static/css/main.9100ccdc.chunk.css.map",
+    "static/css/main.7f7a4977.chunk.css.map": "/burger/static/css/main.7f7a4977.chunk.css.map",
     "static/js/2.2fbb3a8f.chunk.js.LICENSE": "/burger/static/js/2.2fbb3a8f.chunk.js.LICENSE",
     "static/media/burger-logo.png": "/burger/static/media/burger-logo.b8503d26.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6731923e.js",
     "static/js/2.2fbb3a8f.chunk.js",
-    "static/css/main.9100ccdc.chunk.css",
-    "static/js/main.d9d28b01.chunk.js"
+    "static/css/main.7f7a4977.chunk.css",
+    "static/js/main.fc2c6d8b.chunk.js"
   ]
 }
