@@ -6,7 +6,7 @@ const initialState = {
     uderId: null,
     error: null,
     loading: false,
-    authRedirect: '/'
+    authRedirectPath: '/'
 
 }
 
